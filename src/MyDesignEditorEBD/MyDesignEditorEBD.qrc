@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/MyDesignEditorEBD">
+        <file>Resources/bottom1.gif</file>
+        <file>Resources/bottomMenuBar.jpg</file>
+        <file>Resources/bottom1_disable.gif</file>
+        <file>Resources/bottom1_o.gif</file>
+        <file>Resources/bottom2.gif</file>
+        <file>Resources/bottom2_disable.gif</file>
+        <file>Resources/bottom2_o.gif</file>
+        <file>Resources/bottom3.gif</file>
+        <file>Resources/bottom3_disable.gif</file>
+        <file>Resources/bottom3_o.gif</file>
+        <file>Resources/bottom4.gif</file>
+        <file>Resources/bottom4_disable.gif</file>
+        <file>Resources/bottom4_o.gif</file>
+        <file>Resources/working.gif</file>
+    </qresource>
+</RCC>

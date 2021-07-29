@@ -1,0 +1,1811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>NormalWidget</class>
+ <widget class="QWidget" name="NormalWidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>785</width>
+    <height>533</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>NormalWidget</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="0" column="0">
+    <widget class="QFrame" name="frame_2">
+     <property name="maximumSize">
+      <size>
+       <width>16777215</width>
+       <height>200</height>
+      </size>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QGridLayout" name="gridLayout">
+      <item row="0" column="0">
+       <spacer name="horizontalSpacer">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>110</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="0" column="1" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <property name="sizeConstraint">
+         <enum>QLayout::SetDefaultConstraint</enum>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_15_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_15">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>15</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="3" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_13_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_13">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>13</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="5" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_11_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_11">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>11</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="7" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_4">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_9_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_9">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>9</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="9" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_5">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_7_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_7">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>7</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="11" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_6">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_5_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_5">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>5</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="13" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_7">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_3_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_3">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>3</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="15" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_8">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_1_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_1">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>1</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="0" column="17">
+       <spacer name="horizontalSpacer_4">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>110</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="1" column="0" colspan="2">
+       <spacer name="horizontalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>143</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="1" column="2" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_9">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_14_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_14">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>14</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="4" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_10">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_12_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_12">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>12</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="6" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_11">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_10_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_10">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>10</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="8" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_12">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_8_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_8">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>8</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="10" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_13">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_6_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_6">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>6</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="12" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_14">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_4_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_4">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>4</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="14" colspan="2">
+       <layout class="QVBoxLayout" name="verticalLayout_15">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="pB_2_">
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="pB_2">
+          <property name="minimumSize">
+           <size>
+            <width>51</width>
+            <height>51</height>
+           </size>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>16</pointsize>
+           </font>
+          </property>
+          <property name="text">
+           <string>2</string>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </item>
+      <item row="1" column="16" colspan="2">
+       <spacer name="horizontalSpacer_3">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>142</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+     </layout>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QFrame" name="frame">
+     <property name="styleSheet">
+      <string notr="true">QFrame
+{
+    border:1px solid gray;
+}</string>
+     </property>
+     <property name="frameShape">
+      <enum>QFrame::StyledPanel</enum>
+     </property>
+     <property name="frameShadow">
+      <enum>QFrame::Raised</enum>
+     </property>
+     <layout class="QGridLayout" name="gridLayout_17">
+      <item row="0" column="2">
+       <spacer name="verticalSpacer">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>3</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="0" column="4" rowspan="2">
+       <spacer name="verticalSpacer_2">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>9</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="2" column="0">
+       <spacer name="horizontalSpacer_9">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>15</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="2" column="3">
+       <spacer name="horizontalSpacer_10">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>15</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="2" column="4" colspan="2">
+       <widget class="QGroupBox" name="groupBox_2">
+        <property name="styleSheet">
+         <string notr="true">/*QGroupBox 
+{     
+       border: 1px solid gray;
+       border-radius: 9px;
+       margin-top: 0.5em;
+      
+	   font-size: 18px;
+       font-weight: bold;
+}
+
+QGroupBox::title
+ {
+    subcontrol-origin: margin;
+    subcontrol-position: top left; 
+    left: 5px;
+    
+}*/
+QGroupBox {
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #E0E0E0, stop: 1 #FFFFFF);
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 1ex; /* leave space at the top for the title */
+	   font-size: 18px;
+       font-weight: bold;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center; /* position at the top center */
+    padding: 0 3px;
+/*    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #FF0ECE, stop: 1 #FFFFFF);*/
+}</string>
+        </property>
+        <property name="title">
+         <string>RIGHT</string>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_15">
+         <item row="0" column="2">
+          <layout class="QGridLayout" name="gridLayout_11">
+           <property name="verticalSpacing">
+            <number>0</number>
+           </property>
+           <item row="0" column="0">
+            <widget class="QLabel" name="label_5">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QLabel {
+        qproperty-alignment: AlignCenter;
+	border: 1px solid #FF17365D;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #FF17365D;
+	padding: 5px 0px;
+	color: rgb(255, 255, 255);
+	max-height: 25px;
+        font-size: 14px;
+}</string>
+             </property>
+             <property name="text">
+              <string>ALL</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QFrame" name="frame_7">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QFrame {
+	border: 1px solid #FF17365D;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_12">
+              <item row="0" column="0">
+               <widget class="QPushButton" name="pBRightAllF">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_f.png</normaloff>:/MyEditorEBD/Resources/icon_center_f.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QPushButton" name="pBRightAllR">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_r.png</normaloff>:/MyEditorEBD/Resources/icon_center_r.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QPushButton" name="pBRightAllA">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_a.png</normaloff>:/MyEditorEBD/Resources/icon_center_a.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_13">
+           <property name="verticalSpacing">
+            <number>0</number>
+           </property>
+           <item row="0" column="0">
+            <widget class="QLabel" name="label_6">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QLabel {
+        qproperty-alignment: AlignCenter;
+	border: 1px solid #FF17365D;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #FF17365D;
+	padding: 5px 0px;
+	color: rgb(255, 255, 255);
+	max-height: 25px;
+        font-size: 14px;
+}</string>
+             </property>
+             <property name="text">
+              <string>EVEN</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QFrame" name="frame_8">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QFrame {
+	border: 1px solid #FF17365D;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_14">
+              <item row="0" column="0">
+               <widget class="QPushButton" name="pBRightEvenF">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_f.png</normaloff>:/MyEditorEBD/Resources/icon_center_f.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QPushButton" name="pBRightEvenR">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_r.png</normaloff>:/MyEditorEBD/Resources/icon_center_r.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QPushButton" name="pBRightEvenA">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_a.png</normaloff>:/MyEditorEBD/Resources/icon_center_a.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="4">
+          <layout class="QGridLayout" name="gridLayout_9">
+           <property name="verticalSpacing">
+            <number>0</number>
+           </property>
+           <item row="0" column="0">
+            <widget class="QLabel" name="label_4">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QLabel {
+        qproperty-alignment: AlignCenter;
+	border: 1px solid #FF17365D;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #FF17365D;
+	padding: 5px 0px;
+	color: rgb(255, 255, 255);
+	max-height: 25px;
+        font-size: 14px;
+}</string>
+             </property>
+             <property name="text">
+              <string>ODD</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QFrame" name="frame_6">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QFrame {
+	border: 1px solid #FF17365D;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_10">
+              <item row="0" column="0">
+               <widget class="QPushButton" name="pBRightOddF">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_f.png</normaloff>:/MyEditorEBD/Resources/icon_center_f.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QPushButton" name="pBRightOddR">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_r.png</normaloff>:/MyEditorEBD/Resources/icon_center_r.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QPushButton" name="pBRightOddA">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_a.png</normaloff>:/MyEditorEBD/Resources/icon_center_a.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="1">
+          <spacer name="horizontalSpacer_5">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item row="0" column="3">
+          <spacer name="horizontalSpacer_6">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+      </item>
+      <item row="2" column="6">
+       <spacer name="horizontalSpacer_11">
+        <property name="orientation">
+         <enum>Qt::Horizontal</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>15</width>
+          <height>20</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="3" column="1">
+       <spacer name="verticalSpacer_3">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>4</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="3" column="5">
+       <spacer name="verticalSpacer_4">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+        <property name="sizeHint" stdset="0">
+         <size>
+          <width>20</width>
+          <height>4</height>
+         </size>
+        </property>
+       </spacer>
+      </item>
+      <item row="2" column="1" colspan="2">
+       <widget class="QGroupBox" name="groupBox">
+        <property name="styleSheet">
+         <string notr="true">/*QGroupBox 
+{     
+       border: 1px solid gray;
+       border-radius: 9px;
+       margin-top: 0.5em;
+      
+	   font-size: 18px;
+       font-weight: bold;
+}
+
+QGroupBox::title
+ {
+    subcontrol-origin: margin;
+    subcontrol-position: top left; 
+    left: 5px;
+    
+}*/
+QGroupBox {
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #E0E0E0, stop: 1 #FFFFFF);
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 1ex; /* leave space at the top for the title */
+	   font-size: 18px;
+       font-weight: bold;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center; /* position at the top center */
+    padding: 0 3px;
+/*    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #FF0ECE, stop: 1 #FFFFFF);*/
+}</string>
+        </property>
+        <property name="title">
+         <string>LEFT</string>
+        </property>
+        <layout class="QGridLayout" name="gridLayout_16">
+         <item row="0" column="2">
+          <spacer name="horizontalSpacer_8">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item row="0" column="0">
+          <layout class="QGridLayout" name="gridLayout_4">
+           <property name="verticalSpacing">
+            <number>0</number>
+           </property>
+           <item row="0" column="0">
+            <widget class="QLabel" name="label">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QLabel {
+        qproperty-alignment: AlignCenter;
+	border: 1px solid #FF17365D;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #FF17365D;
+	padding: 5px 0px;
+	color: rgb(255, 255, 255);
+	max-height: 25px;
+        font-size: 14px;
+}</string>
+             </property>
+             <property name="text">
+              <string>EVEN</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QFrame" name="frame_3">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QFrame {
+	border: 1px solid #FF17365D;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_3">
+              <item row="0" column="0">
+               <widget class="QPushButton" name="pBLeftEvenF">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_f.png</normaloff>:/MyEditorEBD/Resources/icon_center_f.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QPushButton" name="pBLeftEvenR">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_r.png</normaloff>:/MyEditorEBD/Resources/icon_center_r.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QPushButton" name="pBLeftEvenA">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_a.png</normaloff>:/MyEditorEBD/Resources/icon_center_a.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="3">
+          <layout class="QGridLayout" name="gridLayout_5">
+           <property name="verticalSpacing">
+            <number>0</number>
+           </property>
+           <item row="0" column="0">
+            <widget class="QLabel" name="label_2">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QLabel {
+        qproperty-alignment: AlignCenter;
+	border: 1px solid #FF17365D;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #FF17365D;
+	padding: 5px 0px;
+	color: rgb(255, 255, 255);
+	max-height: 25px;
+        font-size: 14px;
+}</string>
+             </property>
+             <property name="text">
+              <string>ALL</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QFrame" name="frame_4">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QFrame {
+	border: 1px solid #FF17365D;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_6">
+              <item row="0" column="0">
+               <widget class="QPushButton" name="pBLeftAllF">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_f.png</normaloff>:/MyEditorEBD/Resources/icon_center_f.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QPushButton" name="pBLeftAllR">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_r.png</normaloff>:/MyEditorEBD/Resources/icon_center_r.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QPushButton" name="pBLeftAllA">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_a.png</normaloff>:/MyEditorEBD/Resources/icon_center_a.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="5">
+          <spacer name="horizontalSpacer_7">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>0</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item row="0" column="6">
+          <layout class="QGridLayout" name="gridLayout_7">
+           <property name="verticalSpacing">
+            <number>0</number>
+           </property>
+           <item row="0" column="0">
+            <widget class="QLabel" name="label_3">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>37</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QLabel {
+        qproperty-alignment: AlignCenter;
+	border: 1px solid #FF17365D;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #FF17365D;
+	padding: 5px 0px;
+	color: rgb(255, 255, 255);
+	max-height: 25px;
+        font-size: 14px;
+}</string>
+             </property>
+             <property name="text">
+              <string>ODD</string>
+             </property>
+            </widget>
+           </item>
+           <item row="1" column="0">
+            <widget class="QFrame" name="frame_5">
+             <property name="minimumSize">
+              <size>
+               <width>87</width>
+               <height>0</height>
+              </size>
+             </property>
+             <property name="maximumSize">
+              <size>
+               <width>87</width>
+               <height>16777215</height>
+              </size>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QFrame {
+	border: 1px solid #FF17365D;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}</string>
+             </property>
+             <property name="frameShape">
+              <enum>QFrame::StyledPanel</enum>
+             </property>
+             <property name="frameShadow">
+              <enum>QFrame::Raised</enum>
+             </property>
+             <layout class="QGridLayout" name="gridLayout_8">
+              <item row="0" column="0">
+               <widget class="QPushButton" name="pBLeftOddF">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_f.png</normaloff>:/MyEditorEBD/Resources/icon_center_f.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="1" column="0">
+               <widget class="QPushButton" name="pBLeftOddR">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_r.png</normaloff>:/MyEditorEBD/Resources/icon_center_r.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+              <item row="2" column="0">
+               <widget class="QPushButton" name="pBLeftOddA">
+                <property name="minimumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="maximumSize">
+                 <size>
+                  <width>67</width>
+                  <height>67</height>
+                 </size>
+                </property>
+                <property name="text">
+                 <string/>
+                </property>
+                <property name="icon">
+                 <iconset resource="MyEditorEBD.qrc">
+                  <normaloff>:/MyEditorEBD/Resources/icon_center_a.png</normaloff>:/MyEditorEBD/Resources/icon_center_a.png</iconset>
+                </property>
+                <property name="iconSize">
+                 <size>
+                  <width>55</width>
+                  <height>55</height>
+                 </size>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="1">
+          <spacer name="horizontalSpacer_12">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item row="0" column="4">
+          <spacer name="horizontalSpacer_13">
+           <property name="orientation">
+            <enum>Qt::Horizontal</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>40</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+        </layout>
+       </widget>
+      </item>
+     </layout>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources>
+  <include location="MyEditorEBD.qrc"/>
+ </resources>
+ <connections/>
+</ui>

@@ -1,0 +1,561 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Header Files\Widgets">
+      <UniqueIdentifier>{183c0038-dbc6-4b2b-b940-69a03f6a8733}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Widgets">
+      <UniqueIdentifier>{1d0d6d48-2fad-49e8-8018-0773588b5fa3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Form Files\Widgets">
+      <UniqueIdentifier>{e6c76706-24b9-4a10-b61d-276718cdb739}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{913e0de1-eacf-4461-ac96-8c8a571a02b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model">
+      <UniqueIdentifier>{53ae046a-3d2a-40a5-89ed-d7a5269ab7a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Sewing">
+      <UniqueIdentifier>{1df78a1b-14e3-4dde-9dbe-6076eeb44d64}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Sewing">
+      <UniqueIdentifier>{09d06bb3-0ca5-4f60-bc0e-e71f2eebb911}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Control">
+      <UniqueIdentifier>{3d0bd5f8-af38-491b-933e-fd31ade63779}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Control">
+      <UniqueIdentifier>{b861f85e-c3f1-4dde-9ab5-3a1f7b518f65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Thread">
+      <UniqueIdentifier>{12f2eae1-fbd9-4a29-8154-91463df5b6ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Thread">
+      <UniqueIdentifier>{fe31cc72-7815-4aa2-b2c4-048fe876e0a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graph">
+      <UniqueIdentifier>{822a883f-1d94-4f9c-bd2c-c5f89ba4fdd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graph">
+      <UniqueIdentifier>{ee731de8-d801-4415-a713-2b6cd0738f3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Form Files\Dialog">
+      <UniqueIdentifier>{6d2b4ed7-661e-4d76-99a2-f267abf09b57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialog">
+      <UniqueIdentifier>{67cd5394-2234-464b-b55f-4e4341d4d6a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Form Files\Widgets\CCWidgets">
+      <UniqueIdentifier>{d881b130-fee7-410b-bcd6-3a3d4add7b1b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Widgets\CCWidgets">
+      <UniqueIdentifier>{71f7680e-4faf-454e-8067-8e81223515c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Widgets\CCWidgets">
+      <UniqueIdentifier>{ca2fc9bc-405c-4970-b05f-d7b339277b11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Dialog">
+      <UniqueIdentifier>{11c581b2-8be1-4bb6-8bc1-23e92bf071a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\View">
+      <UniqueIdentifier>{ee222056-2971-4da0-9996-396a33af38dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\View">
+      <UniqueIdentifier>{2155e47b-0c6e-4830-912d-55fc08bcb029}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ReadFile">
+      <UniqueIdentifier>{cc95e124-b792-4cdc-912c-9e975724928b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ReadFile">
+      <UniqueIdentifier>{12fc0fed-9b8d-4403-bc22-13679e192c0a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Graph\Items">
+      <UniqueIdentifier>{237a0f21-18ff-468e-ade5-a0896e86f3d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Graph\Items">
+      <UniqueIdentifier>{8406c4ea-688a-4e57-9501-67332c85f45f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\WriteFile">
+      <UniqueIdentifier>{3174d790-7dd1-4aba-b7d1-8e8af39d1f6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\WriteFile">
+      <UniqueIdentifier>{9c456119-6b1a-4567-8e84-6b429ed5dbb3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyEditorEBD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetNavigator.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetSequenceViewer.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetWokrDesign.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignContainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sewing.cpp">
+      <Filter>Source Files\Sewing</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetLoading.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadLoading.cpp">
+      <Filter>Source Files\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="STickCalculation.cpp">
+      <Filter>Source Files\Sewing</Filter>
+    </ClCompile>
+    <ClCompile Include="SewingGrid.cpp">
+      <Filter>Source Files\Sewing</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetSewing.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignGraphicsView.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageMapRectangleItem.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageItem.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageGraphicsScene.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetHeaderInfo.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetPointInfo.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetColorTable.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetCCTable.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="EBDInfoModel.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="CCTableDialog.cpp">
+      <Filter>Source Files\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="TapeWidget.cpp">
+      <Filter>Source Files\Widgets\CCWidgets</Filter>
+    </ClCompile>
+    <ClCompile Include="ChenileWidget.cpp">
+      <Filter>Source Files\Widgets\CCWidgets</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalWidget.cpp">
+      <Filter>Source Files\Widgets\CCWidgets</Filter>
+    </ClCompile>
+    <ClCompile Include="PointTableView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="CCTableWidget.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="CCAbstractWidget.cpp">
+      <Filter>Source Files\Widgets\CCWidgets</Filter>
+    </ClCompile>
+    <ClCompile Include="CCTableItemDelegate.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="CCTableModel.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="CCTableView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="PreviewDialog.cpp">
+      <Filter>Source Files\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeDesignThread.cpp">
+      <Filter>Source Files\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignListWidget.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="FileDirTreeView.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadEbdFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadTbfFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadSstFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadDstFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcPoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPropertiesDialog.cpp">
+      <Filter>Source Files\Dialog</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadDrawDesign.cpp">
+      <Filter>Source Files\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadCalcPartition.cpp">
+      <Filter>Source Files\Thread</Filter>
+    </ClCompile>
+    <ClCompile Include="SewingGraphicsView.cpp">
+      <Filter>Source Files\Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="GridLineItem.cpp">
+      <Filter>Source Files\Graph\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="AxisLineItem.cpp">
+      <Filter>Source Files\Graph\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLocationLineItem.cpp">
+      <Filter>Source Files\Graph\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="EditStitchesEllipseItem.cpp">
+      <Filter>Source Files\Graph\Items</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetColorFilm.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="AboutDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPartition.cpp">
+      <Filter>Source Files\Sewing</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlThread.cpp">
+      <Filter>Source Files\Control</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetDesignNavigator.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignListNavigator.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorFilmModel.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeDesign.cpp">
+      <Filter>Source Files\Sewing</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteEbdFile.cpp">
+      <Filter>Source Files\WriteFile</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteSstFile.cpp">
+      <Filter>Source Files\WriteFile</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteFile.cpp">
+      <Filter>Source Files\WriteFile</Filter>
+    </ClCompile>
+    <ClCompile Include="WriteDstFile.cpp">
+      <Filter>Source Files\WriteFile</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="MyEditorEBD.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ColorMenu.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetNavigator.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetSequenceViewer.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetWokrDesign.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="Sewing.h">
+      <Filter>Header Files\Sewing</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetLoading.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="ThreadLoading.h">
+      <Filter>Header Files\Thread</Filter>
+    </QtMoc>
+    <QtMoc Include="Control.h">
+      <Filter>Header Files\Control</Filter>
+    </QtMoc>
+    <QtMoc Include="DesignGraphicsView.h">
+      <Filter>Header Files\Graph</Filter>
+    </QtMoc>
+    <QtMoc Include="ImageGraphicsScene.h">
+      <Filter>Header Files\Graph</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetHeaderInfo.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetPointInfo.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetColorTable.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="DesignContainer.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetSewing.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetCCTable.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="EBDInfoModel.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="TapeWidget.h">
+      <Filter>Header Files\Widgets\CCWidgets</Filter>
+    </QtMoc>
+    <QtMoc Include="ChenileWidget.h">
+      <Filter>Header Files\Widgets\CCWidgets</Filter>
+    </QtMoc>
+    <QtMoc Include="NormalWidget.h">
+      <Filter>Header Files\Widgets\CCWidgets</Filter>
+    </QtMoc>
+    <QtMoc Include="PointTableView.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="CCTableWidget.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="CCTableDialog.h">
+      <Filter>Header Files\Dialog</Filter>
+    </QtMoc>
+    <QtMoc Include="CCTableItemDelegate.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="CCTableModel.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="CCAbstractWidget.h">
+      <Filter>Header Files\Widgets\CCWidgets</Filter>
+    </QtMoc>
+    <QtMoc Include="CCTableView.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="PreviewDialog.h">
+      <Filter>Header Files\Dialog</Filter>
+    </QtMoc>
+    <QtMoc Include="MakeDesignThread.h">
+      <Filter>Header Files\Thread</Filter>
+    </QtMoc>
+    <QtMoc Include="DesignListWidget.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="FileDirTreeView.h">
+      <Filter>Header Files\View</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadEbdFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadSstFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadDstFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadTbfFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="DesignPropertiesDialog.h">
+      <Filter>Header Files\Dialog</Filter>
+    </QtMoc>
+    <QtMoc Include="ThreadDrawDesign.h">
+      <Filter>Header Files\Thread</Filter>
+    </QtMoc>
+    <QtMoc Include="SewingGraphicsView.h">
+      <Filter>Header Files\Graph</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetColorFilm.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="AboutDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DesignPartition.h">
+      <Filter>Header Files\Sewing</Filter>
+    </QtMoc>
+    <QtMoc Include="ControlThread.h">
+      <Filter>Header Files\Control</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetDesignNavigator.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="DesignListNavigator.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ColorFilmModel.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="ThreadCalcPartition.h">
+      <Filter>Header Files\Thread</Filter>
+    </QtMoc>
+    <QtMoc Include="WriteEbdFile.h">
+      <Filter>Header Files\WriteFile</Filter>
+    </QtMoc>
+    <QtMoc Include="WriteSstFile.h">
+      <Filter>Header Files\WriteFile</Filter>
+    </QtMoc>
+    <QtMoc Include="WriteDstFile.h">
+      <Filter>Header Files\WriteFile</Filter>
+    </QtMoc>
+    <QtMoc Include="WriteFile.h">
+      <Filter>Header Files\WriteFile</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="MyEditorEBD.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="WidgetNavigator.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="WidgetSequenceViewer.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="WidgetWokrDesign.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="WidgetLoading.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="WidgetPointInfo.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="WidgetHeaderInfo.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="WidgetColorTable.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="WidgetCCTable.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="CCTableDialog.ui">
+      <Filter>Form Files\Dialog</Filter>
+    </QtUic>
+    <QtUic Include="NormalWidget.ui">
+      <Filter>Form Files\Widgets\CCWidgets</Filter>
+    </QtUic>
+    <QtUic Include="ChenileWidget.ui">
+      <Filter>Form Files\Widgets\CCWidgets</Filter>
+    </QtUic>
+    <QtUic Include="TapeWidget.ui">
+      <Filter>Form Files\Widgets\CCWidgets</Filter>
+    </QtUic>
+    <QtUic Include="PreviewDialog.ui">
+      <Filter>Form Files\Dialog</Filter>
+    </QtUic>
+    <QtUic Include="DesignPropertiesDialog.ui">
+      <Filter>Form Files\Dialog</Filter>
+    </QtUic>
+    <QtUic Include="WidgetColorFilm.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+    <QtUic Include="AboutDialog.ui">
+      <Filter>Form Files\Dialog</Filter>
+    </QtUic>
+    <QtUic Include="WidgetDesignNavigator.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="MyEditorEBD.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CommonDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="STickCalculation.h">
+      <Filter>Header Files\Sewing</Filter>
+    </ClInclude>
+    <ClInclude Include="SewingGrid.h">
+      <Filter>Header Files\Sewing</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageMapRectangleItem.h">
+      <Filter>Header Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageItem.h">
+      <Filter>Header Files\Graph</Filter>
+    </ClInclude>
+    <ClInclude Include="CalcPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GridLineItem.h">
+      <Filter>Header Files\Graph\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="AxisLineItem.h">
+      <Filter>Header Files\Graph\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLocationLineItem.h">
+      <Filter>Header Files\Graph\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="EditStitchesEllipseItem.h">
+      <Filter>Header Files\Graph\Items</Filter>
+    </ClInclude>
+    <ClInclude Include="MakeDesign.h">
+      <Filter>Header Files\Sewing</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

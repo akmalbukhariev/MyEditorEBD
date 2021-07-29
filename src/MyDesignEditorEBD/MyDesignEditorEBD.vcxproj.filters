@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Header Files\Widgets">
+      <UniqueIdentifier>{f05a7d4c-eb2d-4a77-a272-1cc77c265511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Widgets">
+      <UniqueIdentifier>{16dbba5b-f818-4f5a-a06e-22db2eff39ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Form Files\Widgets">
+      <UniqueIdentifier>{86a87457-00f3-4a40-ae3f-dde6ff0e4abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Form Files\Dialogs">
+      <UniqueIdentifier>{e17eb3c1-a483-4823-810c-2f918deac586}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Dialogs">
+      <UniqueIdentifier>{54c0dcc4-897e-41d9-8163-4a0159c824fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Dialogs">
+      <UniqueIdentifier>{9bec0001-b1c9-451b-b28f-2c7ccea3f588}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{df70f36c-ae3f-4063-9ab5-90612b6acc0d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model">
+      <UniqueIdentifier>{3cc2d266-c268-425c-ac28-d2931c5b94b3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyDesignEditorEBD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogFiltering.cpp">
+      <Filter>Source Files\Dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogRepeat.cpp">
+      <Filter>Source Files\Dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogStitchEdit.cpp">
+      <Filter>Source Files\Dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="DialogStitchDivide.cpp">
+      <Filter>Source Files\Dialogs</Filter>
+    </ClCompile>
+    <ClCompile Include="Control.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EBDInfoModel.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="WidgetLoading.cpp">
+      <Filter>Source Files\Widgets</Filter>
+    </ClCompile>
+    <ClCompile Include="IDialogDesign.cpp">
+      <Filter>Source Files\Dialogs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="MyDesignEditorEBD.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DialogFiltering.h">
+      <Filter>Header Files\Dialogs</Filter>
+    </QtMoc>
+    <QtMoc Include="DialogRepeat.h">
+      <Filter>Header Files\Dialogs</Filter>
+    </QtMoc>
+    <QtMoc Include="DialogStitchEdit.h">
+      <Filter>Header Files\Dialogs</Filter>
+    </QtMoc>
+    <QtMoc Include="DialogStitchDivide.h">
+      <Filter>Header Files\Dialogs</Filter>
+    </QtMoc>
+    <QtMoc Include="Control.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="EBDInfoModel.h">
+      <Filter>Header Files\Model</Filter>
+    </QtMoc>
+    <QtMoc Include="WidgetLoading.h">
+      <Filter>Header Files\Widgets</Filter>
+    </QtMoc>
+    <QtMoc Include="IDialogDesign.h">
+      <Filter>Header Files\Dialogs</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="MyDesignEditorEBD.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="DialogRepeat.ui">
+      <Filter>Form Files\Dialogs</Filter>
+    </QtUic>
+    <QtUic Include="DialogFiltering.ui">
+      <Filter>Form Files\Dialogs</Filter>
+    </QtUic>
+    <QtUic Include="DialogStitchEdit.ui">
+      <Filter>Form Files\Dialogs</Filter>
+    </QtUic>
+    <QtUic Include="DialogStitchDivide.ui">
+      <Filter>Form Files\Dialogs</Filter>
+    </QtUic>
+    <QtUic Include="WidgetLoading.ui">
+      <Filter>Form Files\Widgets</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="MyDesignEditorEBD.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+</Project>

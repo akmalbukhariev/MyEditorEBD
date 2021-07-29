@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>true</ParseFiles>
+    </Filter>
+    <Filter Include="Header Files\ReadFile">
+      <UniqueIdentifier>{751fbc8f-5cf2-4c69-a5aa-8b3d07dd1625}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ReadFile">
+      <UniqueIdentifier>{d56a9f7e-97ce-4723-bf5d-f3874f613239}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LibMyEditorEBD.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignListWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DesignPropertiesDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FileDirTreeView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeDesignThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadDstFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadEbdFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadSstFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ReadTbfFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadLoading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CalcPoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="IReadFile.cpp">
+      <Filter>Source Files\ReadFile</Filter>
+    </ClCompile>
+    <ClCompile Include="ControlThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawDesign.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LibMyEditorEBD.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonDef.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CalcPoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawDesign.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="libmyeditorebd_global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="DesignListWidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DesignPropertiesDialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="FileDirTreeView.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MakeDesignThread.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadDstFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadEbdFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadSstFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ReadTbfFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ThreadLoading.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="IReadFile.h">
+      <Filter>Header Files\ReadFile</Filter>
+    </QtMoc>
+    <QtMoc Include="ControlThread.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="DesignPropertiesDialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>
